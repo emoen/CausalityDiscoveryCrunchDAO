@@ -1,0 +1,21 @@
+# extracted from a notebook
+
+## third-party
+causal-learn  # alias of causallearn
+crunch-cli  # alias of crunch
+joblib
+matplotlib
+networkx
+numpy
+pandas
+scikit-learn  # alias of sklearn
+scipy
+tensorflow
+tqdm
+xgboost
+
+## standard
+#functools
+#os
+#pickle
+#typing

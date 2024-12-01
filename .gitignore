@@ -1,0 +1,8 @@
+.crunchdao
+*.pkl
+*.zip
+*.pickle
+*.csv
+*.parquet
+myenv/
+.ipynb_checkpoints/
