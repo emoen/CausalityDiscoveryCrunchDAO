@@ -23,3 +23,6 @@ With source: https://github.com/E2real/CaPS?tab=readme-ov-file
 
 ### 4th place solution
 https://medium.com/@alexkiechlecornish/4th-place-solution-100k-causal-discovery-challenge-adia-lab-x-crunchdao-e0f88c9eda8e
+
+### 3rd place solution:
+https://stream-physician-14c.notion.site/ADIA-Lab-Causal-Discovery-Challenge-Rank3-Solution-1397f010c9428099aa82e4503cad1c20#1457f010c94280cfb541c60cc9f55b97
