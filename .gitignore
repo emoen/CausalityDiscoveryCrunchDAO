@@ -6,3 +6,5 @@
 *.parquet
 myenv/
 .ipynb_checkpoints/
+.vscode/
+causalEnv2/
