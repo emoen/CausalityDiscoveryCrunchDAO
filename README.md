@@ -10,6 +10,13 @@ https://people.math.ethz.ch/~buhlmann/teaching/presentation-mannheim1.pdf
 
 https://medium.com/data-science-at-microsoft/beginners-guide-to-causal-discovery-the-what-the-why-and-the-how-65182e97876f
 
+- Precondition
+  - D-seperation
+  - https://medium.com/causality-in-data-science/assumptions-for-causal-discovery-cc194d607a14
+ 
+- D-seperation without tears:
+  - https://bayes.cs.ucla.edu/BOOK-2K/d-sep.html
+
 ### Causal Discovery observations:
 
 -Comprehensive Review and Empirical Evaluation of Causal Discovery Algorithms for Numerical Data
