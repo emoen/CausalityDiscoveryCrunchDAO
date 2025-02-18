@@ -2,6 +2,9 @@ Resources:
 https://hub.crunchdao.com/competitions/causality-discovery/
 https://colab.research.google.com/github/crunchdao/quickstarters/blob/master/competitions/datacrunch/quickstarter/quickstarter.ipynb
 
+### Causal Discovery presentations:
+
+https://people.math.ethz.ch/~buhlmann/teaching/presentation-mannheim1.pdf
 
 ### Causal Discovery observations:
 
