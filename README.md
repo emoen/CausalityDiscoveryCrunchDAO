@@ -6,6 +6,10 @@ https://colab.research.google.com/github/crunchdao/quickstarters/blob/master/com
 
 https://people.math.ethz.ch/~buhlmann/teaching/presentation-mannheim1.pdf
 
+### Causal Discovery webpage:
+
+https://medium.com/data-science-at-microsoft/beginners-guide-to-causal-discovery-the-what-the-why-and-the-how-65182e97876f
+
 ### Causal Discovery observations:
 
 -Comprehensive Review and Empirical Evaluation of Causal Discovery Algorithms for Numerical Data
