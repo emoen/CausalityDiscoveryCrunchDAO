@@ -2,6 +2,20 @@ Resources:
 https://hub.crunchdao.com/competitions/causality-discovery/
 https://colab.research.google.com/github/crunchdao/quickstarters/blob/master/competitions/datacrunch/quickstarter/quickstarter.ipynb
 
+### Causal Discovery presentations:
+
+https://people.math.ethz.ch/~buhlmann/teaching/presentation-mannheim1.pdf
+
+### Causal Discovery webpage:
+
+https://medium.com/data-science-at-microsoft/beginners-guide-to-causal-discovery-the-what-the-why-and-the-how-65182e97876f
+
+- Precondition
+  - D-seperation
+  - https://medium.com/causality-in-data-science/assumptions-for-causal-discovery-cc194d607a14
+ 
+- D-seperation without tears:
+  - https://bayes.cs.ucla.edu/BOOK-2K/d-sep.html
 
 ### Causal Discovery observations:
 
@@ -20,6 +34,9 @@ https://arxiv.org/html/2407.13054v1
 -Ordering-Based Causal Discovery for Linear and Nonlinear Relations
 https://arxiv.org/pdf/2410.05890
 With source: https://github.com/E2real/CaPS?tab=readme-ov-file
+
+### 1th place solution
+https://thetourney.github.io/adia-report/
 
 ### 4th place solution
 https://medium.com/@alexkiechlecornish/4th-place-solution-100k-causal-discovery-challenge-adia-lab-x-crunchdao-e0f88c9eda8e
